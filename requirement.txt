@@ -1,0 +1,15 @@
+cvzone
+pyttsx3
+streamlit
+google-generativeai
+Pillow
+SpeechRecognition
+gTTS
+pygame
+pyttsx3
+numpy
+opencv-python
+mediapipe
+pipwin 
+pyaudio
+
