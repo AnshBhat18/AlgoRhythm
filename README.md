@@ -4,7 +4,7 @@
 - Open Terminal in working directory.
 - Run following command.
   ```
-  pip install -r requirements.txt
+  pip install -r requirement.txt
   ```
 - `demo.py` is the main Python file of Streamlit Web-Application. 
 - To run app, write following command in Terminal.
