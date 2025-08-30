@@ -1,7 +1,16 @@
 # AlgoRhythm
 ## How To Run 
-- Open Terminal
-- Write "streamlit run demo.py"
+- Clone my repository.
+- Open Terminal in working directory.
+- Run following command.
+  ```
+  pip install -r requirements.txt
+  ```
+- `demo.py` is the main Python file of Streamlit Web-Application. 
+- To run app, write following command in Terminal.
+  ```
+  streamlit run demo.py
+  ```
 
 ## Features
 -Gesture-based interaction for hands-free use.
@@ -14,9 +23,7 @@
 
 -Device-light design, optimized for rural, low-tech environments.
 
-## How To Run
-- Open Terminal
-- Write "streamlit run demo.py"
+
 
 ## Screenshots
   #### User side
